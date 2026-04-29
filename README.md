@@ -121,7 +121,6 @@ Interactive Excel dashboard with advanced formulas, pivot tables, and visualizat
 
 - ✅ **ALX Data Science Programme** — Professional Foundations · Data Analytics · Python · Machine Learning
 - 🟡 **STADIO Postgraduate Diploma in Data Science** — NQF 8 · 120 Credits · SAQA ID: 122721 *(in progress)*
-- 🟡 **CSN Modern Cybersecurity with AI Bootcamp** *(in progress, completion May 2026)*
 
 ---
 
@@ -130,7 +129,6 @@ Interactive Excel dashboard with advanced formulas, pivot tables, and visualizat
 <div align="center">
 
 ![STADIO](https://img.shields.io/badge/STADIO-PGDip%20Data%20Science%20NQF8-004B87?style=for-the-badge)
-![CSN](https://img.shields.io/badge/CSN-AI%20Cybersecurity%20Bootcamp-00AA00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF6F00?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/MLOps-Production%20Pipelines-00AA00?style=for-the-badge)
 
@@ -156,9 +154,6 @@ Interactive Excel dashboard with advanced formulas, pivot tables, and visualizat
 ```
 2026:          🎓 STADIO Postgraduate Diploma in Data Science (NQF 8)
                 └─ Working with Data · Intro to Data Science · Data Science 1 & 2 · Capstone
-
-               🔐 CSN Modern Cybersecurity with AI Bootcamp
-                └─ n8n workflows · Asset Discovery · AI-Assisted Pentesting · GRC Automation
 
 2025:          ✅ ALX Data Science Programme — Graduated
                 └─ Professional Foundations · Data Analytics · Python · Machine Learning
@@ -189,7 +184,6 @@ Interactive Excel dashboard with advanced formulas, pivot tables, and visualizat
 - ✅ Successfully built and deployed credit risk prediction model (87.4% accuracy)
 - ✅ Completed advanced SQL projects with 10,000+ row datasets
 - ✅ Created professional Power BI dashboards for stakeholder reporting
-- 🚀 Currently completing **CSN AI Cybersecurity Bootcamp** (May 2026)
 
 ---
 
