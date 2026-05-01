@@ -141,11 +141,18 @@ Sales performance analysis with interactive dashboards, pivot tables, conditiona
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngwanelegacie&show_icons=true&theme=radical&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda)](https://github.com/ngwanelegacie)
+<a href="https://github.com/ngwanelegacie">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ngwanelegacie&show_icons=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ngwanelegacie">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ngwanelegacie&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Top Languages" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ngwanelegacie&theme=radical&hide_border=true&background=0a192f&ring=64ffda&fire=ff6600&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0)](https://git.io/streak-stats)
+<br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngwanelegacie&layout=compact&theme=radical&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda)](https://github.com/ngwanelegacie)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ngwanelegacie&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="GitHub Streak" />
+</a>
 
 </div>
 
