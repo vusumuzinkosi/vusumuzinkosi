@@ -1,217 +1,187 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👋+Welcome+to+My+GitHub+Profile;Data+Scientist+|+Finance+%26+Fintech;ALX+Data+Science+Graduate;PGDip+in+Data+Science+%40+STADIO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Vusumuzi+Nkosi;Data+Scientist+%7C+Finance+%26+Fintech;2.26M+rows+%7C+0.72+AUC+%7C+%2495M+impact;9%2B+years+teaching+%E2%86%92+Data+Science)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
+## About Me
 
-> Transforming raw data into actionable insights | Building intelligent solutions for financial challenges
+> *I turn messy datasets into decisions — and I explain them so anyone can follow.*
 
-Hi! I'm **Vusumuzi Nkosi**, a data scientist passionate about leveraging machine learning and advanced analytics to solve real-world problems in **finance and fintech**. I'm a graduate of the **ALX Data Science Programme** and currently completing a **Postgraduate Diploma in Data Science (NQF 8) at STADIO Higher Education**, combining strong foundations in **Computer Science and Mathematics** with hands-on experience in data analysis, predictive modeling, and business intelligence.
+I'm **Vusumuzi Nkosi**, a data scientist with **9+ years as a mathematics lecturer** who pivoted into ML and analytics. That teaching background isn't a footnote — it's the thing that makes me different. I don't just build models; I communicate what they mean.
 
-### 📌 Quick Facts
+Currently completing a **Postgraduate Diploma in Data Science (NQF 8) at STADIO** and graduated from the **ALX Data Science Programme**. I work at the intersection of **data science and finance**, building end-to-end pipelines on real-world data.
 
-- 🎓 **Education:** PGDip Data Science @ STADIO (NQF 8) | ALX Data Science Graduate | CS & Mathematics Background
-- 📍 **Location:** Newcastle, KZN, South Africa
-- 🔍 **Focus Areas:** Credit Risk Analysis | Financial Analytics | Machine Learning
-- 💼 **Current:** Building projects at the intersection of Data Science & Finance
-- 🌱 **Always Learning:** Deep Learning, Advanced Statistical Methods, Production ML Systems
+### Quick Facts
+
+- **Education:** PGDip Data Science @ STADIO (NQF 8) | ALX DS Graduate | BSc Maths & CS
+- **Location:** Newcastle, KZN, South Africa
+- **Focus:** Credit Risk | Financial Analytics | Machine Learning
+- **Building:** Portfolio projects with real data, real scale, real business impact
+- **Open to:** Data Scientist, Data Analyst, or ML roles (South Africa / remote)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### Languages & Core Skills
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Data Science & ML Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### ML & Data Science
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189F40?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00AA00?style=for-the-badge)
+![SMOTE](https://img.shields.io/badge/SMOTE-FF6B6B?style=for-the-badge)
 
-### Data Visualization & BI Tools
+### Visualisation & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Development & Tools
+### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🎓 Education & Qualifications
+## Featured Projects
+
+### 1. Lending Club Loan Default Analysis
+
+> **2.26M real loans | AUC 0.72 | ~$95M annual impact**
+
+End-to-end credit risk pipeline on real Lending Club data (2007–2018). Designed the SQL schema, cleaned 151 columns down to 33 features, ran full EDA, trained Logistic Regression / Random Forest / Gradient Boosting, and quantified ~$95M/year in preventable losses. This is the project that shows how I work at scale.
+
+| Metric | Value |
+|--------|-------|
+| Dataset | 2,260,701 loans |
+| Best model | Gradient Boosting (AUC 0.72) |
+| Top feature | sub_grade (23.3% importance) |
+| Business impact | ~$95M annual loss prevention |
+
+**Tech:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Project-lending--credit--analysis-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/lending-credit-analysis)
+
+---
+
+### 2. US Household Income SQL Analysis
+
+> **Advanced SQL | Window functions, CTEs, aggregations**
+
+Cleaned and analysed household income data across US states and counties, uncovering regional income trends and demographic patterns using joins, window functions, CTEs, and multi-level aggregations.
+
+**Tech:**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Project-us--household--income--sql-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/us-household-income-sql)
+
+---
+
+### 3. World Life Expectancy SQL Analysis
+
+> **190+ countries | Health trends | Economic correlations**
+
+Investigated correlations between life expectancy and health variables across 190+ countries. SQL data cleaning and exploratory analysis examining trends over time and links to economic indicators.
+
+**Tech:**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Project-world--life--expectancy--sql-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/world-life-expectancy-sql)
+
+---
+
+### 4. Sales Performance Dashboard & Analysis
+
+> **Excel | Interactive dashboards | Business KPIs**
+
+Sales performance analysis with interactive dashboards, pivot tables, conditional formatting, and visual reporting. Covers data cleaning, trend identification, and stakeholder-ready business metrics.
+
+**Tech:**
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View_Project-excel--sales--analysis-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/excel-sales-analysis)
+
+---
+
+## Education & Certifications
 
 | Qualification | Institution | Status |
 |---|---|---|
-| Postgraduate Diploma in Data Science (NQF 8) | STADIO Higher Education | 🟡 In Progress (2026) |
-| Data Science Programme | ALX Africa | ✅ Completed |
+| Postgraduate Diploma in Data Science (NQF 8) | STADIO Higher Education | In Progress (2026) |
+| Data Science Programme | ALX Africa | Completed |
+| BSc Mathematics & Computer Science | University of South Africa | Completed |
+| BEd Mathematics & Computer Science | University of South Africa | Completed |
 
-### ALX Data Science Programme — Completed Courses
-| Course | Duration | Status |
-|---|---|---|
-| Professional Foundations | 12 weeks | ✅ Complete |
-| Data Analytics | 14 weeks | ✅ Complete |
-| Python | 9 weeks | ✅ Complete |
-| Machine Learning | 17 weeks | ✅ Complete |
+| Certification | Issuer |
+|---|---|
+| Data Science Certificate | ALX Africa |
+| Data Analyst Certificate (SQL, Power BI, A/B Testing) | ALX Africa |
+| AI Engineering Bootcamp | Zero To Mastery Academy |
+| Prompt Engineering Bootcamp | Zero To Mastery Academy |
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngwanelegacie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00ff00)](https://github.com/ngwanelegacie)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngwanelegacie&show_icons=true&theme=radical&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda)](https://github.com/ngwanelegacie)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ngwanelegacie&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=ff6600&currStreakLabel=00ff00)](https://git.io/streak-stat)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ngwanelegacie&theme=radical&hide_border=true&background=0a192f&ring=64ffda&fire=ff6600&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngwanelegacie&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00ff00)](https://github.com/ngwanelegacie)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngwanelegacie&layout=compact&theme=radical&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda)](https://github.com/ngwanelegacie)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
-
-### 1. 🏦 **Credit Risk Prediction Model**
-A comprehensive machine learning solution for predicting credit default risk in lending institutions.
-
-- **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, Jupyter
-- **Key Achievement:** 87.4% Accuracy | 0.92 AUC-ROC
-- **Impact:** Identifies high-risk applicants with 85% recall
-- [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square)](https://github.com/ngwanelegacie/credit-risk-prediction)
-- [![Open in Colab](https://img.shields.io/badge/Colab-Run%20Online-F9AB00?style=flat-square)](https://colab.research.google.com)
-
-### 2. 🌍 **World Life Expectancy SQL Analysis**
-In-depth SQL analysis exploring global health trends and life expectancy patterns across countries.
-
-- **Tech Stack:** SQL, Data Analysis, Statistical Analysis
-- **Highlights:** Correlation analysis | Trend identification | Regional comparisons
-- **Insights:** Identified key socioeconomic factors affecting life expectancy
-- [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square)](https://github.com/ngwanelegacie/world-life-expectancy-sql)
-
-### 3. 🏠 **US Household Income SQL Analysis**
-Comprehensive SQL-based analysis of household income patterns and economic demographics in the US.
-
-- **Tech Stack:** SQL, Data Warehousing, Business Analytics
-- **Focus:** Income distribution | Demographics | Economic trends
-- **Deliverable:** Actionable insights for policy makers and businesses
-- [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square)](https://github.com/ngwanelegacie/us-household-income-sql)
-
-### 4. 📊 **Excel Sales Analysis Dashboard**
-Interactive Excel dashboard with advanced formulas, pivot tables, and visualizations for sales performance tracking.
-
-- **Tech Stack:** Excel, Formulas, Pivot Tables, Conditional Formatting
-- **Features:** Real-time metrics | Trend analysis | Regional breakdown
-- **Impact:** Enables stakeholders to monitor KPIs at a glance
-- [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square)](https://github.com/ngwanelegacie/excel-sales-analysis)
-
----
-
-## 🏅 Certifications
-
-- ✅ **ALX Data Science Programme** — Professional Foundations · Data Analytics · Python · Machine Learning
-- 🟡 **STADIO Postgraduate Diploma in Data Science** — NQF 8 · 120 Credits · SAQA ID: 122721 *(in progress)*
-
----
-
-## 📚 Currently Studying
-
-<div align="center">
-
-![STADIO](https://img.shields.io/badge/STADIO-PGDip%20Data%20Science%20NQF8-004B87?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF6F00?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-Production%20Pipelines-00AA00?style=for-the-badge)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nkosivusizwe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkosivusizwe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vusumuzi%20Nkosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vusumuzi-nkosi)
-[![GitHub](https://img.shields.io/badge/GitHub-ngwanelegacie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngwanelegacie)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B6B?style=for-the-badge)](https://ngwanelegacie.github.io/)
-
-</div>
-
----
-
-## 📈 My Journey
+## My Journey
 
 ```
-2026:          🎓 STADIO Postgraduate Diploma in Data Science (NQF 8)
-                └─ Working with Data · Intro to Data Science · Data Science 1 & 2 · Capstone
+2026          PGDip Data Science (NQF 8) — STADIO Higher Education
+               └─ Intro to Data Science · Working with Data · Statistical Modelling · Applied ML
 
-2025:          ✅ ALX Data Science Programme — Graduated
-                └─ Professional Foundations · Data Analytics · Python · Machine Learning
+2025          ALX Data Science Programme — Graduated
+               └─ Professional Foundations · Data Analytics · Python · Machine Learning
 
-2023-2024:    🔍 Data Analysis & Business Intelligence
-               └─ Excel · SQL · Power BI Mastery
+2025          Lending Club Analysis — 2.26M loans, AUC 0.72, $95M impact
+               └─ The project that proved I can work at scale with real data
 
-2022-2023:    💻 Computer Science & Mathematics Foundations
-               └─ Core algorithms · Statistics · Programming
+2023-2024     Data Analysis & BI foundations
+               └─ Excel · SQL · Power BI · Tableau
+
+2017-Present  Senior Lecturer — Mathematics & IT
+               └─ 9+ years teaching 100+ students/year → communication superpower
+
+2012-2017     BEd Mathematics & Computer Science — UNISA
+               └─ Where it all started
 ```
 
 ---
 
-## 🌟 What I'm Passionate About
-
-- **Data-Driven Decision Making:** Using analytics to solve real business problems
-- **Financial Technology:** Building ML solutions for lending, risk, and fintech
-- **Teaching & Mentoring:** Sharing knowledge with aspiring data professionals
-- **Open Source:** Contributing to data science community
-- **Continuous Learning:** Staying at the forefront of data science innovation
-
----
-
-## 💡 Recent Highlights
-
-- ✅ Graduated from the **ALX Data Science Programme** — Professional Foundations, Data Analytics, Python, Machine Learning
-- ✅ Enrolled in **STADIO PGDip in Data Science** (NQF 8, SAQA ID: 122721)
-- ✅ Successfully built and deployed credit risk prediction model (87.4% accuracy)
-- ✅ Completed advanced SQL projects with 10,000+ row datasets
-- ✅ Created professional Power BI dashboards for stakeholder reporting
-
----
-
-## 📊 Contribution Activity
-
-![Snake Animation](https://raw.githubusercontent.com/ngwanelegacie/ngwanelegacie/output/github-contribution-grid-snake.svg)
-
----
-
-## 📍 Location & Availability
+## Connect
 
 <div align="center">
 
-**Based in:** Newcastle, KZN, South Africa 🇿🇦
-
-**Open to:** Remote Opportunities | Collaboration | Mentorship
-
-**Timezone:** SAST (UTC+2)
-
-</div>
-
----
-
-## 🎁 GitHub Profile Views
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ngwanelegacie.ngwanelegacie&left_color=green&right_color=red)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ngwanelegacie.github.io-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://ngwanelegacie.github.io)
+[![Email](https://img.shields.io/badge/Email-vusizwe@rocketmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vusizwe@rocketmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ngwanelegacie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngwanelegacie)
 
 </div>
 
@@ -219,12 +189,8 @@ Interactive Excel dashboard with advanced formulas, pivot tables, and visualizat
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star my repositories and connect with me!
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ngwanelegacie.ngwanelegacie&left_color=0a192f&right_color=64ffda)
 
 **"Data is the new oil, but insight is the engine that powers progress."**
-
----
-
-<p>Made with ❤️ by Vusumuzi Nkosi | ALX Data Science Graduate | PGDip Data Science @ STADIO</p>
 
 </div>
