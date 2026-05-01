@@ -126,6 +126,7 @@ Sales performance analysis with interactive dashboards, pivot tables, conditiona
 | Postgraduate Diploma in Data Science (NQF 8) | STADIO Higher Education | In Progress (2026) |
 | Data Science Programme | ALX Africa | Completed |
 | BSc Mathematics & Computer Science | University of South Africa | Completed |
+| BEd Mathematics & Computer Science | University of South Africa | Completed |
 
 | Certification | Issuer |
 |---|---|
@@ -163,19 +164,22 @@ Sales performance analysis with interactive dashboards, pivot tables, conditiona
 2026          PGDip Data Science (NQF 8) — STADIO Higher Education
                └─ Intro to Data Science · Working with Data · Statistical Modelling · Applied ML
 
-2025          ALX Data Science Programme — Graduated
+2025-2026     ALX Data Science Programme — Graduated
                └─ Professional Foundations · Data Analytics · Python · Machine Learning
 
 2025          Lending Club Analysis — 2.26M loans, AUC 0.72, $95M impact
                └─ The project that proved I can work at scale with real data
 
-2023-2024     Data Analysis & BI foundations
-               └─ Excel · SQL · Power BI · Tableau
+2025          Certifications — ALX Data Analyst · ZTM AI Engineering · ZTM Prompt Engineering
 
-2017-Present  Senior Lecturer — Mathematics & IT
+2022-2025     BSc Mathematics & Computer Science — UNISA
+
+2017-Present  Senior Lecturer — Mathematics & IT, Amajuba TVET College
                └─ 9+ years teaching 100+ students/year → communication superpower
 
 2012-2017     BEd Mathematics & Computer Science — UNISA
+
+2012-2016     Special Educator — Mathematics, Mdumiseni High School
                └─ Where it all started
 ```
 
