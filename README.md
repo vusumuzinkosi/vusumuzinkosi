@@ -126,7 +126,6 @@ Sales performance analysis with interactive dashboards, pivot tables, conditiona
 | Postgraduate Diploma in Data Science (NQF 8) | STADIO Higher Education | In Progress (2026) |
 | Data Science Programme | ALX Africa | Completed |
 | BSc Mathematics & Computer Science | University of South Africa | Completed |
-| BEd Mathematics & Computer Science | University of South Africa | Completed |
 
 | Certification | Issuer |
 |---|---|
