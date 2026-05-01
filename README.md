@@ -75,7 +75,7 @@ End-to-end credit risk pipeline on real Lending Club data (2007–2018). Designe
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 [![View Project](https://img.shields.io/badge/View_Project-lending--credit--analysis-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/lending-credit-analysis)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lending-club-streamlit.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lending-club-app-bnjftcemaxoxqqrhgyhpcr.streamlit.app/)
 
 ---
 
