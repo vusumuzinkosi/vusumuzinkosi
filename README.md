@@ -8,7 +8,7 @@
 
 I'm **Vusumuzi Nkosi**, a data scientist with postgraduate training in Data Science (STADIO, NQF 8) and **9+ years as a mathematics lecturer**. That teaching background isn't a footnote - it's the thing that makes me different. I don't just build models; I communicate what they mean.
 
-I hold a **PGDip in TVET from the University of the Western Cape** and am an **ALX Data Science graduate**. I work at the intersection of **data science and finance**, building end-to-end pipelines on real-world data.
+I hold a **BSc in Computer Science and Mathematics from the University of South Africa** and am an **ALX Data Science graduate**. I work at the intersection of **data science and finance**, building end-to-end pipelines on real-world data.
 
 ### Quick Facts
 
