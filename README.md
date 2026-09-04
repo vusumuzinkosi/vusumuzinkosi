@@ -71,7 +71,7 @@ End-to-end credit-risk pipeline on real Lending Club data (2007-2018). SQL schem
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-lending--credit--analysis-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/lending-credit-analysis)
+[![View Project](https://img.shields.io/badge/View_Project-lending--credit--analysis-64FFDA?style=for-the-badge)](https://github.com/vusumuzinkosi/lending-credit-analysis)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lending-club-app-bnjftcemaxoxqqrhgyhpcr.streamlit.app/)
 
 ---
@@ -88,7 +88,7 @@ Financial indicators dashboard built from World Bank data on South African econo
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-sa--financial--dashboard-64FFDA?style=for-the-badge)](https://github.com/ngwanelegacie/sa-financial-dashboard)
+[![View Project](https://img.shields.io/badge/View_Project-sa--financial--dashboard-64FFDA?style=for-the-badge)](https://github.com/vusumuzinkosi/sa-financial-dashboard)
 
 ---
 
@@ -115,17 +115,17 @@ Financial indicators dashboard built from World Bank data on South African econo
 
 <div align="center">
 
-<a href="https://github.com/ngwanelegacie">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ngwanelegacie&show_icons=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/vusumuzinkosi">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vusumuzinkosi&show_icons=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/ngwanelegacie">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ngwanelegacie&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vusumuzinkosi&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Top Languages" />
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ngwanelegacie&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vusumuzinkosi&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -136,9 +136,9 @@ Financial indicators dashboard built from World Bank data on South African econo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ngwanelegacie.github.io-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://ngwanelegacie.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vusumuzinkosi.github.io-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://vusumuzinkosi.github.io)
 [![Email](https://img.shields.io/badge/Email-vusizwe@rocketmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vusizwe@rocketmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ngwanelegacie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngwanelegacie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vusumuzinkosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vusumuzinkosi)
 
 </div>
 
@@ -146,6 +146,6 @@ Financial indicators dashboard built from World Bank data on South African econo
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ngwanelegacie.ngwanelegacie&left_color=0a192f&right_color=64ffda)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vusumuzinkosi.vusumuzinkosi&left_color=0a192f&right_color=64ffda)
 
 </div>
