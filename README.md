@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Vusumuzi+Nkosi;Data+Scientist+%7C+Credit+Risk+Analytics;2.26M+loans+%7C+AUC+0.72+%7C+%2495M+impact;9%2B+years+teaching+%E2%86%92+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Vusumuzi+Nkosi;Data+Scientist+%7C+Credit+Risk+Analytics;2.26M+loans+%7C+AUC+0.72+%7C+%2495M+impact;9%2B+years+teaching+%E2%86%92+Data+Science)](https://git.io/typing-svg)
 
 ---
 
@@ -34,7 +34,6 @@ I hold a **BSc in Computer Science and Mathematics from the University of South 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Visualisation & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge)
@@ -113,13 +112,24 @@ Financial indicators dashboard built from World Bank data on South African econo
 
 ## GitHub Stats
 
+<!--
+  These cards now point at the OFFICIAL github-readme-stats instance (github-readme-stats.vercel.app),
+  which fixes the "Maximum retries exceeded / add PAT_1" error caused by the old third-party server.
+  The public instance is shared, so on very busy days it can still briefly rate-limit.
+  For a version that NEVER rate-limits, deploy your own copy:
+    1. Fork github.com/anuraghazra/github-readme-stats
+    2. Import the fork on vercel.com as a new project
+    3. Add an Environment Variable  PAT_1 = <a GitHub personal access token>  (classic token, no scopes needed for a public profile)
+    4. Deploy, then replace "github-readme-stats.vercel.app" below with "<your-project>.vercel.app"
+-->
+
 <div align="center">
 
 <a href="https://github.com/vusumuzinkosi">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vusumuzinkosi&show_icons=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vusumuzinkosi&show_icons=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&count_private=true" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/ngwanelegacie">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vusumuzinkosi&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Top Languages" />
+<a href="https://github.com/vusumuzinkosi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vusumuzinkosi&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Top Languages" />
 </a>
 
 <br/>
