@@ -1,161 +1,133 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Vusumuzi+Nkosi;Data+Scientist+%7C+Credit+Risk+Analytics;2.26M+loans+%7C+AUC+0.72+%7C+%2495M+impact;9%2B+years+teaching+%E2%86%92+Data+Science)](https://git.io/typing-svg)
+<div align="center">
+
+# Hi, I'm Vusumuzi Nkosi 👋
+
+### Data Scientist · Credit Risk Analytics · Mathematics Educator
+
+I turn complex data into defensible decisions—and explain the result clearly.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A192F?style=flat-square&logo=googlechrome&logoColor=64FFDA)](https://vusumuzinkosi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vusumuzinkosi)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vusizwe@rocketmail.com)
+
+</div>
 
 ---
 
-## About Me
+## Profile
 
-> *I turn messy datasets into decisions - and I explain them so anyone can follow.*
+I'm a data scientist focused on **credit risk, financial analytics, and applied machine learning**. My background combines postgraduate data-science training with more than nine years of mathematics teaching, so I bring both analytical depth and clear communication to technical work.
 
-I'm **Vusumuzi Nkosi**, a data scientist with postgraduate training in Data Science (STADIO, NQF 8) and **9+ years as a mathematics lecturer**. That teaching background isn't a footnote - it's the thing that makes me different. I don't just build models; I communicate what they mean.
+- 📍 Newcastle, KwaZulu-Natal, South Africa
+- 🎓 PGDip Data Science candidate at STADIO (NQF 8)
+- 💼 Open to Data Scientist, Data Analyst, and Credit Risk Analyst roles in South Africa or remotely
+- 🔎 Currently building end-to-end projects across modelling, SQL, dashboards, and deployment
 
-I hold a **BSc in Computer Science and Mathematics from the University of South Africa** and am an **ALX Data Science graduate**. I work at the intersection of **data science and finance**, building end-to-end pipelines on real-world data.
+## Selected Impact
 
-### Quick Facts
-
-- **Education:** PGDip Data Science @ STADIO (NQF 8) | PGDip TVET @ UWC | ALX DS Graduate | BSc Maths & CS @ Unisa
-- **Location:** Newcastle, KZN, South Africa
-- **Focus:** Credit Risk | Financial Analytics | Machine Learning
-- **Open to:** Data Scientist, Data Analyst, Credit Risk Analyst roles (SA / remote)
-
----
-
-## Tech Stack
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### ML & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189F40?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Visualisation & BI
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
+| Area | Evidence |
+|---|---|
+| Credit-risk modelling | Analysed **2.26M Lending Club loans** and achieved **ROC-AUC 0.72** |
+| Business translation | Quantified an estimated **$95M annual preventable-loss opportunity** |
+| Data pipeline | Reduced **151 raw variables to 33 modelling features** through validation and feature selection |
+| Communication | More than **9 years teaching mathematics** and explaining quantitative concepts |
 
 ## Featured Projects
 
-### 1. Lending Club Loan Default Analysis
+### [Lending Club Loan Default Analysis](https://github.com/vusumuzinkosi/lending-credit-analysis)
 
-> **2.26M real loans | AUC 0.72 | ~$95M annual impact**
+An end-to-end credit-risk pipeline covering SQL schema design, exploratory analysis, feature selection, model evaluation, business impact analysis, and Streamlit deployment.
 
-End-to-end credit-risk pipeline on real Lending Club data (2007-2018). SQL schema design, feature reduction from 151 to 33 variables, full EDA, Gradient Boosting model evaluation, and ~$95M/year in quantified preventable losses. Includes Excel dashboards and a deployed Streamlit prediction app.
+**Highlights:** 2,260,701 loans · Gradient Boosting · ROC-AUC 0.72 · 33 selected features
 
-| Metric | Value |
-|--------|-------|
-| Dataset | 2,260,701 loans |
-| Best model | Gradient Boosting (AUC 0.72) |
-| Top feature | sub_grade (23.3% importance) |
-| Business impact | ~$95M annual loss prevention |
+`Python` `SQL` `scikit-learn` `Streamlit` `Excel`
 
-**Tech:**
+[View repository](https://github.com/vusumuzinkosi/lending-credit-analysis) · [Open live app](https://lending-club-app-bnjftcemaxoxqqrhgyhpcr.streamlit.app/)
+
+### [South African Financial Indicators Dashboard](https://github.com/vusumuzinkosi/sa-financial-dashboard)
+
+A reporting workflow for South African economic indicators using World Bank data, Python ETL, SQL storage, and Excel/Power BI views.
+
+`Python` `SQL` `Power BI` `Excel` `World Bank API`
+
+[View repository](https://github.com/vusumuzinkosi/sa-financial-dashboard)
+
+## Technical Toolkit
+
+**Languages and analysis**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Machine learning and visualisation**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189F40?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Workflow and deployment**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-lending--credit--analysis-64FFDA?style=for-the-badge)](https://github.com/vusumuzinkosi/lending-credit-analysis)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lending-club-app-bnjftcemaxoxqqrhgyhpcr.streamlit.app/)
-
----
-
-### 2. SA Financial Indicators Dashboard
-
-> **World Bank data | Python ETL | SQL + Power BI + Excel**
-
-Financial indicators dashboard built from World Bank data on South African economic metrics. Python ETL scripts for data collection and cleaning, SQL for structured storage, and Excel/Power BI reporting views.
-
-**Tech:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View_Project-sa--financial--dashboard-64FFDA?style=for-the-badge)](https://github.com/vusumuzinkosi/sa-financial-dashboard)
-
----
-
-## Education & Certifications
+## Education
 
 | Qualification | Institution | Status |
 |---|---|---|
-| PGDip in Data Science (NQF 8) | STADIO Higher Education | In Progress (2026) |
-| ALX Data Science Programme | ALX Africa | Completed (2025-2026) |
-| PGDip in TVET | University of the Western Cape | Completed (2024-2025) |
-| BSc Mathematics & Computer Science | University of South Africa | Completed (2022-2024) |
-| BEd Mathematics & Computer Science | University of South Africa | Completed (2012-2017) |
+| PGDip Data Science (NQF 8) | STADIO Higher Education | In progress, 2026 |
+| ALX Data Science Programme | ALX Africa | Completed, 2026 |
+| PGDip TVET | University of the Western Cape | Completed, 2025 |
+| BSc Mathematics and Computer Science | University of South Africa | Completed, 2024 |
+| BEd Mathematics and Computer Science | University of South Africa | Completed, 2017 |
 
-| Certification | Issuer |
-|---|---|
-| Data Science Certificate | ALX Africa |
-| Data Analyst Certificate | ALX Africa |
-| AI Engineering Bootcamp | Zero To Mastery Academy |
-| Prompt Engineering Bootcamp | Zero To Mastery Academy |
+<details>
+<summary><strong>Additional certifications</strong></summary>
 
----
+- Data Science Certificate — ALX Africa
+- Data Analyst Certificate — ALX Africa
+- AI Engineering Bootcamp — Zero To Mastery Academy
+- Prompt Engineering Bootcamp — Zero To Mastery Academy
 
-## GitHub Stats
+</details>
 
-<!--
-  These cards now point at the OFFICIAL github-readme-stats instance (github-readme-stats.vercel.app),
-  which fixes the "Maximum retries exceeded / add PAT_1" error caused by the old third-party server.
-  The public instance is shared, so on very busy days it can still briefly rate-limit.
-  For a version that NEVER rate-limits, deploy your own copy:
-    1. Fork github.com/anuraghazra/github-readme-stats
-    2. Import the fork on vercel.com as a new project
-    3. Add an Environment Variable  PAT_1 = <a GitHub personal access token>  (classic token, no scopes needed for a public profile)
-    4. Deploy, then replace "github-readme-stats.vercel.app" below with "<your-project>.vercel.app"
--->
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/vusumuzinkosi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vusumuzinkosi&show_icons=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=vusumuzinkosi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda" alt="Vusumuzi's GitHub statistics" />
 </a>
 <a href="https://github.com/vusumuzinkosi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vusumuzinkosi&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Top Languages" />
+  <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vusumuzinkosi&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Vusumuzi's most-used public repository languages" />
 </a>
 
-<br/>
+<br />
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=vusumuzinkosi&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="GitHub Streak" />
+<a href="https://github.com/vusumuzinkosi">
+  <img width="90%" src="https://streak-stats.demolab.com?user=vusumuzinkosi&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="Vusumuzi's GitHub contribution streak" />
 </a>
 
 </div>
 
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-vusumuzinkosi.github.io-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://vusumuzinkosi.github.io)
-[![Email](https://img.shields.io/badge/Email-vusizwe@rocketmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vusizwe@rocketmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vusumuzinkosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vusumuzinkosi)
-
-</div>
+> GitHub language cards describe the public repositories on this profile; they are not a measure of overall proficiency.
 
 ---
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vusumuzinkosi.vusumuzinkosi&left_color=0a192f&right_color=64ffda)
+### Let's connect
+
+I'm interested in data science, analytics, and credit-risk opportunities where rigorous analysis and clear communication matter.
+
+[Portfolio](https://vusumuzinkosi.github.io) · [LinkedIn](https://linkedin.com/in/vusumuzinkosi) · [Email](mailto:vusizwe@rocketmail.com)
 
 </div>
