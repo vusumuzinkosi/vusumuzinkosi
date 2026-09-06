@@ -4,7 +4,7 @@
 
 ### Data Scientist · Financial Analytics & Risk Modelling · Mathematics Educator
 
-I turn complex data into defensible decisions—and explain the result clearly.
+I turn complex data into defensible decisions and explain the result clearly.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A192F?style=flat-square&logo=googlechrome&logoColor=64FFDA)](https://vusumuzinkosi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vusumuzinkosi)
@@ -16,12 +16,12 @@ I turn complex data into defensible decisions—and explain the result clearly.
 
 ## Profile
 
-I'm a data scientist focused on **credit risk, financial analytics, and applied machine learning**. My background combines postgraduate data-science training with more than nine years of mathematics teaching, so I bring both analytical depth and clear communication to technical work.
+I'm a data scientist focused on **credit risk, financial analytics, and applied machine learning**. My background combines postgraduate training in data science with more than 9 years of mathematics teaching, so I bring both analytical depth and clear communication to technical work.
 
 - 📍 Newcastle, KwaZulu-Natal, South Africa
 - 🎓 PGDip Data Science candidate at STADIO (NQF 8)
 - 💼 Open to Data Scientist, Data Analyst, and Credit Risk Analyst roles in South Africa or remotely
-- 🔎 Currently building end-to-end projects across modelling, SQL, dashboards, and deployment
+- 🔎 Currently building end-to-end projects across modeling, SQL, dashboards, and deployment
 
 ## Selected Impact
 
