@@ -2,7 +2,7 @@
 
 # Hi, I'm Vusumuzi Nkosi 👋
 
-### Data Scientist · Credit Risk Analytics · Mathematics Educator
+### Data Scientist · Financial Analytics & Risk Modelling · Mathematics Educator
 
 I turn complex data into defensible decisions—and explain the result clearly.
 
@@ -107,18 +107,10 @@ A reporting workflow for South African economic indicators using World Bank data
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=vusumuzinkosi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda" alt="Vusumuzi's GitHub statistics" />
 </a>
 <a href="https://github.com/vusumuzinkosi">
-  <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vusumuzinkosi&layout=compact&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda" alt="Vusumuzi's most-used public repository languages" />
-</a>
-
-<br />
-
-<a href="https://github.com/vusumuzinkosi">
-  <img width="90%" src="https://streak-stats.demolab.com?user=vusumuzinkosi&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="Vusumuzi's GitHub contribution streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vusumuzinkosi&hide_border=true&background=0a192f&ring=64FFDA&fire=FF6600&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=495670" alt="Vusumuzi's GitHub contribution streak" />
 </a>
 
 </div>
-
-> GitHub language cards describe the public repositories on this profile; they are not a measure of overall proficiency.
 
 ---
 
