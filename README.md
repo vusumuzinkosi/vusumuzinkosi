@@ -31,13 +31,7 @@ I'm a data scientist focused on **credit risk, financial analytics, and applied 
 
 ## Featured Projects
 
-### [South African Financial Indicators Dashboard](https://github.com/vusumuzinkosi/sa-financial-dashboard)
-
-A reporting workflow for South African economic indicators using World Bank data, Python ETL, SQL storage, and Excel/Power BI views.
-
-`Python` `SQL` `Power BI` `Excel` `World Bank API`
-
-[View repository](https://github.com/vusumuzinkosi/sa-financial-dashboard)
+New projects are in progress and will be added here as each stage is completed.
 
 ## Technical Toolkit
 
