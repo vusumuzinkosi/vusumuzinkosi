@@ -27,22 +27,9 @@ I'm a data scientist focused on **credit risk, financial analytics, and applied 
 
 | Area | Evidence |
 |---|---|
-| Credit-risk modelling | Analysed **2.26M Lending Club loans** and achieved **ROC-AUC 0.72** |
-| Business translation | Quantified an estimated **$95M annual preventable-loss opportunity** |
-| Data pipeline | Reduced **151 raw variables to 33 modelling features** through validation and feature selection |
 | Communication | More than **9 years teaching mathematics** and explaining quantitative concepts |
 
 ## Featured Projects
-
-### [Lending Club Loan Default Analysis](https://github.com/vusumuzinkosi/lending-credit-analysis)
-
-An end-to-end credit-risk pipeline covering SQL schema design, exploratory analysis, feature selection, model evaluation, business impact analysis, and Streamlit deployment.
-
-**Highlights:** 2,260,701 loans · Gradient Boosting · ROC-AUC 0.72 · 33 selected features
-
-`Python` `SQL` `scikit-learn` `Streamlit` `Excel`
-
-[View repository](https://github.com/vusumuzinkosi/lending-credit-analysis) · [Open live app](https://lending-club-app-bnjftcemaxoxqqrhgyhpcr.streamlit.app/)
 
 ### [South African Financial Indicators Dashboard](https://github.com/vusumuzinkosi/sa-financial-dashboard)
 
