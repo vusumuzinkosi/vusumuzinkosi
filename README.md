@@ -2,9 +2,9 @@
 
 # Hi, I'm Vusumuzi Nkosi 👋
 
-### Data Scientist · Financial Analytics & Risk Modelling · Mathematics Educator
+### Data Scientist · Machine Learning, Experimentation & Forecasting · Mathematics Educator
 
-I turn complex data into defensible decisions and explain the result clearly.
+I turn data into business decisions and explain the result clearly.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A192F?style=flat-square&logo=googlechrome&logoColor=64FFDA)](https://vusumuzinkosi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vusumuzinkosi)
@@ -16,28 +16,41 @@ I turn complex data into defensible decisions and explain the result clearly.
 
 ## Profile
 
-I'm a data scientist focused on **credit risk, financial analytics, and applied machine learning**. My background combines postgraduate training in data science with more than 9 years of mathematics teaching, so I bring both analytical depth and clear communication to technical work.
+I'm a data scientist who builds **predictive models, analyses experiments and forecasts demand**, starting every project from the decision it needs to support. My background combines postgraduate training in data science with more than 9 years of mathematics teaching, so I bring both analytical depth and clear communication to technical work.
 
 - 📍 Newcastle, KwaZulu-Natal, South Africa
 - 🎓 PGDip Data Science candidate at STADIO (NQF 8)
-- 💼 Open to Data Scientist, Data Analyst, and Credit Risk Analyst roles in South Africa or remotely
-- 🔎 Currently building end-to-end projects across modeling, SQL, dashboards, and deployment
+- 💼 Open to Data Scientist and Data Analyst roles in South Africa or remotely
+- 🔎 Currently building five end-to-end projects, published in stages
 
-## Selected Impact
+## Projects
 
-| Area | Evidence |
-|---|---|
-| Communication | More than **9 years teaching mathematics** and explaining quantitative concepts |
+Each project answers a concrete business question. They're in progress, and each repository is updated as a stage is completed.
 
-## Featured Projects
+### [Churn Prediction: Revenue at Risk](https://github.com/vusumuzinkosi/churn-prediction-revenue-at-risk)
+Which customers are likely to leave, and how much revenue is at risk if they do?
 
-### [South African Financial Indicators Dashboard](https://github.com/vusumuzinkosi/sa-financial-dashboard)
+`Python` `pandas` `scikit-learn` `Classification` · **Status:** in progress
 
-A reporting workflow for South African economic indicators using World Bank data, Python ETL, SQL storage, and Excel/Power BI views.
+### [Fraud Detection: A Daily Review Queue for Mobile Money](https://github.com/vusumuzinkosi/fraud-detection-mobile-money)
+Which mobile money transactions should a fraud team review first, given how many they can check each day?
 
-`Python` `SQL` `Power BI` `Excel` `World Bank API`
+`Python` `scikit-learn` `imbalanced-learn` `Imbalanced data` · **Status:** in progress
 
-[View repository](https://github.com/vusumuzinkosi/sa-financial-dashboard)
+### [Customer Segmentation: RFM and K-means for Targeted Campaigns](https://github.com/vusumuzinkosi/customer-segmentation-rfm)
+How should customers be grouped by recency, frequency and spend so each segment gets the right campaign?
+
+`Python` `pandas` `scikit-learn` `K-means` · **Status:** in progress
+
+### [A/B Test: Should the Online Store Roll Out the New Landing Page?](https://github.com/vusumuzinkosi/ab-test-landing-page)
+Does the new landing page lift conversion enough to justify a full rollout?
+
+`Python` `SciPy` `statsmodels` `Hypothesis testing` · **Status:** in progress
+
+### [Eskom Demand Forecasting: How Much Electricity Will South Africa Need Next Week?](https://github.com/vusumuzinkosi/eskom-demand-forecasting)
+How much electricity will South Africa need over the coming week, to support supply planning?
+
+`Python` `statsmodels` `scikit-learn` `Time series` · **Status:** in progress
 
 ## Technical Toolkit
 
@@ -51,12 +64,13 @@ A reporting workflow for South African economic indicators using World Bank data
 **Machine learning and visualisation**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189F40?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 **Workflow and deployment**
 
@@ -105,7 +119,7 @@ A reporting workflow for South African economic indicators using World Bank data
 
 ### Let's connect
 
-I'm interested in data science, analytics, and credit-risk opportunities where rigorous analysis and clear communication matter.
+I'm interested in data science and analytics roles where rigorous analysis and clear communication matter.
 
 [Portfolio](https://vusumuzinkosi.github.io) · [LinkedIn](https://linkedin.com/in/vusumuzinkosi) · [Email](mailto:vusizwe@rocketmail.com)
 
