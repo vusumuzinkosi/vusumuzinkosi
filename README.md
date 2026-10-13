@@ -25,7 +25,14 @@ I'm a data scientist who builds **predictive models, analyses experiments and fo
 
 ## Projects
 
-Each project answers a concrete business question. They're in progress, and each repository is updated as a stage is completed.
+Each project answers a concrete business question. The capstone has verified results; the other five are in progress, and each repository is updated as a stage is completed.
+
+### [Account Activation Prediction (STADIO Capstone)](https://github.com/vusumuzinkosi/cap182-capstone)
+Which new accounts on an investing platform will stall before their first deposit, and whom should the onboarding team contact within 24 hours of sign-up?
+
+**Result:** on unseen data, contacting the riskiest 20% of new sign-ups reaches 1.79× more stallers than random outreach (ROC-AUC 0.73, time-based split).
+
+`Python` `XGBoost` `scikit-learn` `Logistic regression` · **Status:** capstone
 
 ### [Churn Prediction: Revenue at Risk](https://github.com/vusumuzinkosi/churn-prediction-revenue-at-risk)
 Which customers are likely to leave, and how much revenue is at risk if they do?
