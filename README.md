@@ -21,18 +21,11 @@ I'm a data scientist who builds **predictive models, analyses experiments and fo
 - 📍 Newcastle, KwaZulu-Natal, South Africa
 - 🎓 PGDip Data Science candidate at STADIO (NQF 8)
 - 💼 Open to Data Scientist and Data Analyst roles in South Africa or remotely
-- 🔎 Six end-to-end projects in forecasting, fraud, churn, experimentation and segmentation
+- 🔎 Five end-to-end projects in forecasting, fraud, churn, experimentation and segmentation
 
 ## Projects
 
-Six end-to-end projects, including my STADIO capstone. Each one starts from a business question and ends with a decision someone could act on.
-
-### [Account Activation Prediction (STADIO Capstone)](https://github.com/vusumuzinkosi/cap182-capstone)
-Which new accounts on an investing platform will stall before their first deposit, and whom should the onboarding team contact within 24 hours of sign-up?
-
-**Result:** On unseen data, contacting the riskiest 20% of new sign-ups reaches 1.79× more stallers than random outreach (95% CI 1.48–2.12; ROC-AUC 0.73, time-based split). [Watch the video presentation](https://youtu.be/vK5F7muNSz8).
-
-`Python` `XGBoost` `scikit-learn` `Logistic regression`
+Five end-to-end projects. Each one starts from a business question and ends with a decision someone could act on.
 
 ### [Eskom Demand Forecasting: How Much Electricity Will South Africa Need Next Week?](https://github.com/vusumuzinkosi/eskom-demand-forecasting)
 How much electricity will South Africa need next week, hour by hour?
