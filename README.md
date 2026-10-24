@@ -53,23 +53,6 @@ Data scientist completing a **Postgraduate Diploma in Data Science (STADIO, NQF 
 | **Visualisation & BI** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Workflow** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
 
-## GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/vusumuzinkosi?tab=repositories">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vusumuzinkosi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&icon_color=64ffda&custom_title=GitHub%20Activity" alt="GitHub activity statistics for vusumuzinkosi" />
-</a>
-<a href="https://github.com/vusumuzinkosi?tab=repositories">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=vusumuzinkosi&layout=compact&langs_count=6&hide_border=true&bg_color=0a192f&text_color=ccd6f6&title_color=64ffda&custom_title=Most%20Used%20Languages" alt="Most used languages for vusumuzinkosi" />
-</a>
-
-<a href="https://github.com/vusumuzinkosi">
-  <img src="https://streak-stats.demolab.com?user=vusumuzinkosi&hide_border=true&background=0a192f&ring=64FFDA&fire=64FFDA&currStreakNum=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=8892B0&dates=8892B0" alt="GitHub contribution streak for vusumuzinkosi" />
-</a>
-
-</div>
-
 ## Education
 
 | Qualification | Institution | Year |
