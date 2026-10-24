@@ -30,7 +30,7 @@ Each project answers a concrete business question. The capstone has verified res
 ### [Account Activation Prediction (STADIO Capstone)](https://github.com/vusumuzinkosi/cap182-capstone)
 Which new accounts on an investing platform will stall before their first deposit, and whom should the onboarding team contact within 24 hours of sign-up?
 
-**Result:** on unseen data, contacting the riskiest 20% of new sign-ups reaches 1.79× more stallers than random outreach (ROC-AUC 0.73, time-based split).
+**Result:** on unseen data, contacting the riskiest 20% of new sign-ups reaches 1.79× more stallers than random outreach (95% CI 1.48–2.12; ROC-AUC 0.73, time-based split). [Watch the video presentation](https://youtu.be/vK5F7muNSz8).
 
 `Python` `XGBoost` `scikit-learn` `Logistic regression` · **Status:** capstone
 
