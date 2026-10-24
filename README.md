@@ -21,43 +21,53 @@ I'm a data scientist who builds **predictive models, analyses experiments and fo
 - 📍 Newcastle, KwaZulu-Natal, South Africa
 - 🎓 PGDip Data Science candidate at STADIO (NQF 8)
 - 💼 Open to Data Scientist and Data Analyst roles in South Africa or remotely
-- 🔎 Currently building five end-to-end projects, published in stages
+- 🔎 Six end-to-end projects in forecasting, fraud, churn, experimentation and segmentation
 
 ## Projects
 
-Each project answers a concrete business question. The capstone has verified results; the other five are in progress, and each repository is updated as a stage is completed.
+Six end-to-end projects, including my STADIO capstone. Each one starts from a business question and ends with a decision someone could act on.
 
 ### [Account Activation Prediction (STADIO Capstone)](https://github.com/vusumuzinkosi/cap182-capstone)
 Which new accounts on an investing platform will stall before their first deposit, and whom should the onboarding team contact within 24 hours of sign-up?
 
-**Result:** on unseen data, contacting the riskiest 20% of new sign-ups reaches 1.79× more stallers than random outreach (95% CI 1.48–2.12; ROC-AUC 0.73, time-based split). [Watch the video presentation](https://youtu.be/vK5F7muNSz8).
+**Result:** On unseen data, contacting the riskiest 20% of new sign-ups reaches 1.79× more stallers than random outreach (95% CI 1.48–2.12; ROC-AUC 0.73, time-based split). [Watch the video presentation](https://youtu.be/vK5F7muNSz8).
 
-`Python` `XGBoost` `scikit-learn` `Logistic regression` · **Status:** capstone
-
-### [Churn Prediction: Revenue at Risk](https://github.com/vusumuzinkosi/churn-prediction-revenue-at-risk)
-Which customers are likely to leave, and how much revenue is at risk if they do?
-
-`Python` `pandas` `scikit-learn` `Classification` · **Status:** in progress
-
-### [Fraud Detection: A Daily Review Queue for Mobile Money](https://github.com/vusumuzinkosi/fraud-detection-mobile-money)
-Which mobile money transactions should a fraud team review first, given how many they can check each day?
-
-`Python` `scikit-learn` `imbalanced-learn` `Imbalanced data` · **Status:** in progress
-
-### [Customer Segmentation: RFM and K-means for Targeted Campaigns](https://github.com/vusumuzinkosi/customer-segmentation-rfm)
-How should customers be grouped by recency, frequency and spend so each segment gets the right campaign?
-
-`Python` `pandas` `scikit-learn` `K-means` · **Status:** in progress
-
-### [A/B Test: Should the Online Store Roll Out the New Landing Page?](https://github.com/vusumuzinkosi/ab-test-landing-page)
-Does the new landing page lift conversion enough to justify a full rollout?
-
-`Python` `SciPy` `statsmodels` `Hypothesis testing` · **Status:** in progress
+`Python` `XGBoost` `scikit-learn` `Logistic regression`
 
 ### [Eskom Demand Forecasting: How Much Electricity Will South Africa Need Next Week?](https://github.com/vusumuzinkosi/eskom-demand-forecasting)
-How much electricity will South Africa need over the coming week, to support supply planning?
+How much electricity will South Africa need next week, hour by hour?
 
-`Python` `statsmodels` `scikit-learn` `Time series` · **Status:** in progress
+**Result:** 3.1% MAPE a week ahead, 15% better than "same as last week". Day ahead: 2.4% against Eskom's own published 2.3%, without weather data.
+
+`Python` `scikit-learn` `Gradient boosting` `Walk-forward validation`
+
+### [Fraud Detection: A Daily Review Queue for Mobile Money](https://github.com/vusumuzinkosi/fraud-detection-mobile-money)
+Which of 2.6 million mobile money transactions should a six-analyst fraud team review each day?
+
+**Result:** Reviewing the top 300 a day catches 98% of fraud cases (89% of the money), with 87% of flags genuine.
+
+`Python` `scikit-learn` `Logistic regression` `Imbalanced data`
+
+### [Churn Prediction: Revenue at Risk](https://github.com/vusumuzinkosi/churn-prediction-revenue-at-risk)
+Which customers will churn next quarter, how much value is at risk, and whom should retention call first?
+
+**Result:** Catches 95% of churners on unseen customers (ROC AUC 0.98). With capacity for 10% of customers, ranking by expected loss protects 82% of the value at risk, against 58% when ranking by churn probability.
+
+`Python` `scikit-learn` `Random forest` `Cost-based threshold`
+
+### [A/B Test: Should the Online Store Roll Out the New Landing Page?](https://github.com/vusumuzinkosi/ab-test-landing-page)
+Does the new landing page convert better than the old one?
+
+**Result:** Don't roll out. On 290,584 visitors the new page converted 0.16 points lower (p = 0.19, 95% CI −0.39 to +0.08), with 98% power to detect the +0.5-point lift that matters.
+
+`Python` `statsmodels` `SciPy` `Hypothesis testing`
+
+### [Customer Segmentation: RFM and K-means for Targeted Campaigns](https://github.com/vusumuzinkosi/customer-segmentation-rfm)
+Which natural customer groups exist, and what should marketing say to each?
+
+**Result:** Four segments. Loyal big spenders are 19% of customers and 72% of revenue, and segments built on older data predicted the next six months: the top group spent 19× as much as lapsed buyers.
+
+`Python` `pandas` `scikit-learn` `K-means`
 
 ## Technical Toolkit
 
